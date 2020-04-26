@@ -1,0 +1,13 @@
+C:\Users\nakao019\Desktop\ScShoAlpha-master\bin\x86\Release\ScShoAlpha.exe
+C:\Users\nakao019\Desktop\ScShoAlpha-master\bin\x86\Release\ScShoAlpha.pdb
+C:\Users\nakao019\Desktop\ScShoAlpha-master\obj\x86\Release\ScShoAlpha.FormCaptureSheet.resources
+C:\Users\nakao019\Desktop\ScShoAlpha-master\obj\x86\Release\ScShoAlpha.FormMain.resources
+C:\Users\nakao019\Desktop\ScShoAlpha-master\obj\x86\Release\ScShoAlpha.FormPaint.resources
+C:\Users\nakao019\Desktop\ScShoAlpha-master\obj\x86\Release\ScShoAlpha.FormPreview.resources
+C:\Users\nakao019\Desktop\ScShoAlpha-master\obj\x86\Release\ScShoAlpha.FormPrintPreview.resources
+C:\Users\nakao019\Desktop\ScShoAlpha-master\obj\x86\Release\ScShoAlpha.FormSelectColor.resources
+C:\Users\nakao019\Desktop\ScShoAlpha-master\obj\x86\Release\ScShoAlpha.Properties.Resources.resources
+C:\Users\nakao019\Desktop\ScShoAlpha-master\obj\x86\Release\ScShoAlpha.csproj.GenerateResource.cache
+C:\Users\nakao019\Desktop\ScShoAlpha-master\obj\x86\Release\ScShoAlpha.exe
+C:\Users\nakao019\Desktop\ScShoAlpha-master\obj\x86\Release\ScShoAlpha.pdb
+C:\Users\nakao019\Desktop\ScShoAlpha-master\obj\x86\Release\ScShoAlpha.csprojAssemblyReference.cache

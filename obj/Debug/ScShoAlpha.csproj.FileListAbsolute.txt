@@ -1,0 +1,13 @@
+C:\Users\nakao019\Desktop\ScShoPlusAlpha\ScShoAlpha\bin\Debug\ScShoAlpha.exe
+C:\Users\nakao019\Desktop\ScShoPlusAlpha\ScShoAlpha\bin\Debug\ScShoAlpha.pdb
+C:\Users\nakao019\Desktop\ScShoPlusAlpha\ScShoAlpha\obj\Debug\ScShoAlpha.csprojAssemblyReference.cache
+C:\Users\nakao019\Desktop\ScShoPlusAlpha\ScShoAlpha\obj\Debug\ScShoAlpha.FormCaptureSheet.resources
+C:\Users\nakao019\Desktop\ScShoPlusAlpha\ScShoAlpha\obj\Debug\ScShoAlpha.FormMain.resources
+C:\Users\nakao019\Desktop\ScShoPlusAlpha\ScShoAlpha\obj\Debug\ScShoAlpha.FormPaint.resources
+C:\Users\nakao019\Desktop\ScShoPlusAlpha\ScShoAlpha\obj\Debug\ScShoAlpha.FormPreview.resources
+C:\Users\nakao019\Desktop\ScShoPlusAlpha\ScShoAlpha\obj\Debug\ScShoAlpha.FormPrintPreview.resources
+C:\Users\nakao019\Desktop\ScShoPlusAlpha\ScShoAlpha\obj\Debug\ScShoAlpha.FormSelectColor.resources
+C:\Users\nakao019\Desktop\ScShoPlusAlpha\ScShoAlpha\obj\Debug\ScShoAlpha.Properties.Resources.resources
+C:\Users\nakao019\Desktop\ScShoPlusAlpha\ScShoAlpha\obj\Debug\ScShoAlpha.csproj.GenerateResource.cache
+C:\Users\nakao019\Desktop\ScShoPlusAlpha\ScShoAlpha\obj\Debug\ScShoAlpha.exe
+C:\Users\nakao019\Desktop\ScShoPlusAlpha\ScShoAlpha\obj\Debug\ScShoAlpha.pdb
